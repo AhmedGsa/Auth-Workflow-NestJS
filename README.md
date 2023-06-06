@@ -31,8 +31,8 @@ Don't forget to add a .env file with the following variables (Your MySQL DB Conf
 - JWT_SECRET (An encryption key)
 - DB_NAME
 - DB_USERNAME
-- DB_PASSWORD=ahmed123
-- DB_PORT=3306
+- DB_PASSWORD
+- DB_PORT
 
 ## Installation
 
