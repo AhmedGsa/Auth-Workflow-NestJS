@@ -24,7 +24,15 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This repo contains a JWT Based authentication with NestJS and MySQL Database.
+
+Don't forget to add a .env file with the following variables (Your MySQL DB Configuration):
+
+- JWT_SECRET (An encryption key)
+- DB_NAME
+- DB_USERNAME
+- DB_PASSWORD=ahmed123
+- DB_PORT=3306
 
 ## Installation
 
@@ -44,6 +52,11 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## Future Upgrades
+
+- Email verification
+- Forget password
 
 ## Test
 
