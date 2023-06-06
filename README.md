@@ -73,4 +73,4 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Ahmed Gouasmia]([https://www.linkedin.com/in/ahmed-gouasmia-59baa1245/])
+- Author - [Ahmed Gouasmia](https://www.linkedin.com/in/ahmed-gouasmia-59baa1245/)
